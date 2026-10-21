@@ -1,0 +1,36 @@
+{
+  "UJ1haoLW6F71JXDt1FNrKw": {
+    "tool": "append_to_notes",
+    "hash": "c5a347fea2d88d9e8012dbd0f3377cdeafd48a02e3dea7c7ae326836610f803b",
+    "approver": "cli-user",
+    "approved_at": "2026-10-20T21:34:32",
+    "used": true,
+    "used_at": "2026-10-20T21:34:33"
+  },
+  "oPUoE2ubDnvmD2TIc54xFQ": {
+    "tool": "create_email_draft",
+    "hash": "816e7816d24ef53a842397cf1673bc0969e7153f24ae0908b82578f20de0e3db",
+    "approver": "cli-user",
+    "approved_at": "2026-10-20T21:34:33",
+    "used": true,
+    "used_at": "2026-10-20T21:34:33"
+  },
+  "rejected-601a895f": {
+    "tool": "append_to_notes",
+    "hash": "c5a347fea2d88d9e8012dbd0f3377cdeafd48a02e3dea7c7ae326836610f803b",
+    "approver": "cli-user",
+    "rejected": true,
+    "used": true,
+    "approved_at": null,
+    "rejected_at": "2026-10-20T21:34:34"
+  },
+  "rejected-1606feb7": {
+    "tool": "create_email_draft",
+    "hash": "0efb9616072f0aa443c55eee4089ad4c5ac19faba71da2f44cf8f2f213798981",
+    "approver": "cli-user",
+    "rejected": true,
+    "used": true,
+    "approved_at": null,
+    "rejected_at": "2026-10-20T21:34:34"
+  }
+}

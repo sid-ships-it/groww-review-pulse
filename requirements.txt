@@ -1,0 +1,6 @@
+streamlit==1.66.0
+altair==6.3.0
+google-genai==2.31.0
+mcp==1.30.0
+pandas==3.0.6
+google-play-scraper==1.2.7

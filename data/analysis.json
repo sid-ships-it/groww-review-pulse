@@ -1,0 +1,311 @@
+{
+  "generated_on": "2026-10-20",
+  "source": "Google Play reviews of Groww (India, English listing)",
+  "window": {
+    "start": "2026-08-10",
+    "end": "2026-10-18",
+    "weeks": 10,
+    "latest_week": "2026-10-12 to 2026-10-18"
+  },
+  "counts": {
+    "all_reviews": 10537,
+    "analysed": 2321,
+    "avg_rating_all": 4.39,
+    "one_star_share": 0.107
+  },
+  "themes": [
+    {
+      "id": 5,
+      "name": "General Praise & User Experience",
+      "description": "Positive feedback highlighting the app's ease of use, simple interface, and suitability for beginners.",
+      "reviews": 956,
+      "share": 0.4119,
+      "critical_reviews": 24,
+      "avg_rating": 4.9,
+      "negative_share": 0.025,
+      "latest_week_share": 0.4286,
+      "prior_weeks_share": 0.4105
+    },
+    {
+      "id": 1,
+      "name": "App Performance & Technical Stability",
+      "description": "Issues related to app crashes, lagging, slow loading, login failures, and general technical bugs.",
+      "reviews": 541,
+      "share": 0.2331,
+      "critical_reviews": 531,
+      "avg_rating": 1.47,
+      "negative_share": 0.982,
+      "latest_week_share": 0.1758,
+      "prior_weeks_share": 0.238
+    },
+    {
+      "id": 4,
+      "name": "Trading Features & UI Improvements",
+      "description": "Requests for new features like advanced charts, stop-loss tools, IPO management, and feedback on UI changes like the scalper mode.",
+      "reviews": 352,
+      "share": 0.1517,
+      "critical_reviews": 152,
+      "avg_rating": 3.41,
+      "negative_share": 0.432,
+      "latest_week_share": 0.1374,
+      "prior_weeks_share": 0.1529
+    },
+    {
+      "id": 2,
+      "name": "Customer Support & Service Quality",
+      "description": "Complaints regarding unresponsive customer care, long wait times, ineffective AI bots, and unresolved account or transaction tickets.",
+      "reviews": 266,
+      "share": 0.1146,
+      "critical_reviews": 260,
+      "avg_rating": 1.44,
+      "negative_share": 0.977,
+      "latest_week_share": 0.1374,
+      "prior_weeks_share": 0.1127
+    },
+    {
+      "id": 3,
+      "name": "Charges, Fees & Financial Transparency",
+      "description": "Concerns about high brokerage, hidden charges, DP fees, and lack of clarity on transaction or account maintenance costs.",
+      "reviews": 206,
+      "share": 0.0888,
+      "critical_reviews": 180,
+      "avg_rating": 2.28,
+      "negative_share": 0.874,
+      "latest_week_share": 0.1209,
+      "prior_weeks_share": 0.086
+    }
+  ],
+  "top_themes": [
+    {
+      "id": 1,
+      "name": "App Performance & Technical Stability",
+      "description": "Issues related to app crashes, lagging, slow loading, login failures, and general technical bugs.",
+      "reviews": 541,
+      "share": 0.2331,
+      "critical_reviews": 531,
+      "avg_rating": 1.47,
+      "negative_share": 0.982,
+      "latest_week_share": 0.1758,
+      "prior_weeks_share": 0.238
+    },
+    {
+      "id": 2,
+      "name": "Customer Support & Service Quality",
+      "description": "Complaints regarding unresponsive customer care, long wait times, ineffective AI bots, and unresolved account or transaction tickets.",
+      "reviews": 266,
+      "share": 0.1146,
+      "critical_reviews": 260,
+      "avg_rating": 1.44,
+      "negative_share": 0.977,
+      "latest_week_share": 0.1374,
+      "prior_weeks_share": 0.1127
+    },
+    {
+      "id": 3,
+      "name": "Charges, Fees & Financial Transparency",
+      "description": "Concerns about high brokerage, hidden charges, DP fees, and lack of clarity on transaction or account maintenance costs.",
+      "reviews": 206,
+      "share": 0.0888,
+      "critical_reviews": 180,
+      "avg_rating": 2.28,
+      "negative_share": 0.874,
+      "latest_week_share": 0.1209,
+      "prior_weeks_share": 0.086
+    }
+  ],
+  "top_themes_basis": "most negative or mixed reviews",
+  "weekly_counts": {
+    "2026-08-10": {
+      "App Performance & Technical Stability": 49,
+      "Customer Support & Service Quality": 32,
+      "Charges, Fees & Financial Transparency": 25,
+      "Trading Features & UI Improvements": 33,
+      "General Praise & User Experience": 85
+    },
+    "2026-08-17": {
+      "App Performance & Technical Stability": 49,
+      "Customer Support & Service Quality": 21,
+      "Charges, Fees & Financial Transparency": 13,
+      "Trading Features & UI Improvements": 30,
+      "General Praise & User Experience": 106
+    },
+    "2026-08-24": {
+      "App Performance & Technical Stability": 82,
+      "Customer Support & Service Quality": 32,
+      "Charges, Fees & Financial Transparency": 40,
+      "Trading Features & UI Improvements": 67,
+      "General Praise & User Experience": 137
+    },
+    "2026-08-31": {
+      "App Performance & Technical Stability": 66,
+      "Customer Support & Service Quality": 25,
+      "Charges, Fees & Financial Transparency": 16,
+      "Trading Features & UI Improvements": 47,
+      "General Praise & User Experience": 119
+    },
+    "2026-09-07": {
+      "App Performance & Technical Stability": 51,
+      "Customer Support & Service Quality": 19,
+      "Charges, Fees & Financial Transparency": 18,
+      "Trading Features & UI Improvements": 28,
+      "General Praise & User Experience": 87
+    },
+    "2026-09-14": {
+      "App Performance & Technical Stability": 62,
+      "Customer Support & Service Quality": 36,
+      "Charges, Fees & Financial Transparency": 24,
+      "Trading Features & UI Improvements": 27,
+      "General Praise & User Experience": 76
+    },
+    "2026-09-21": {
+      "App Performance & Technical Stability": 73,
+      "Customer Support & Service Quality": 32,
+      "Charges, Fees & Financial Transparency": 14,
+      "Trading Features & UI Improvements": 37,
+      "General Praise & User Experience": 92
+    },
+    "2026-09-28": {
+      "App Performance & Technical Stability": 30,
+      "Customer Support & Service Quality": 20,
+      "Charges, Fees & Financial Transparency": 14,
+      "Trading Features & UI Improvements": 23,
+      "General Praise & User Experience": 82
+    },
+    "2026-10-05": {
+      "App Performance & Technical Stability": 47,
+      "Customer Support & Service Quality": 24,
+      "Charges, Fees & Financial Transparency": 20,
+      "Trading Features & UI Improvements": 35,
+      "General Praise & User Experience": 94
+    },
+    "2026-10-12": {
+      "App Performance & Technical Stability": 32,
+      "Customer Support & Service Quality": 25,
+      "Charges, Fees & Financial Transparency": 22,
+      "Trading Features & UI Improvements": 25,
+      "General Praise & User Experience": 78
+    }
+  },
+  "fee_issue": {
+    "issue_key": "stock_trade_charges",
+    "fee_reviews_total": 289,
+    "fee_reviews_share_of_analysed": 0.1245,
+    "issue_reviews": 197,
+    "issue_confused_reviews": 47,
+    "issue_avg_rating": 2.42,
+    "by_topic": {
+      "trade_charges_unclear": {
+        "mentions": 43,
+        "confused": 35
+      },
+      "money_deducted_unexplained": {
+        "mentions": 28,
+        "confused": 25
+      },
+      "other_fee": {
+        "mentions": 22,
+        "confused": 8
+      },
+      "brokerage_rate": {
+        "mentions": 140,
+        "confused": 7
+      },
+      "mtf_or_loan_interest": {
+        "mentions": 11,
+        "confused": 3
+      },
+      "account_opening_or_maintenance": {
+        "mentions": 7,
+        "confused": 3
+      },
+      "auto_square_off": {
+        "mentions": 5,
+        "confused": 3
+      },
+      "sip_or_mandate_charges": {
+        "mentions": 18,
+        "confused": 2
+      },
+      "mf_expense_ratio": {
+        "mentions": 6,
+        "confused": 2
+      },
+      "ddpi_fee": {
+        "mentions": 4,
+        "confused": 2
+      },
+      "dp_charge": {
+        "mentions": 5,
+        "confused": 0
+      }
+    },
+    "weekly_issue_reviews": {
+      "2026-08-10": 14,
+      "2026-08-17": 19,
+      "2026-08-24": 35,
+      "2026-08-31": 22,
+      "2026-09-07": 17,
+      "2026-09-14": 24,
+      "2026-09-21": 12,
+      "2026-09-28": 15,
+      "2026-10-05": 21,
+      "2026-10-12": 18
+    },
+    "example_ids": [
+      "e0ddb95ca381",
+      "11e8514843a7",
+      "25b2534ce8c2",
+      "828b4e717656",
+      "5e0106c5fe7f",
+      "818e0792d3e1",
+      "ff6328ed0890",
+      "1b994bff302d",
+      "bc1f75bca87f",
+      "630f00f4c5f5",
+      "64e1ab0faa66",
+      "9448b92a72af",
+      "615eb5c68197",
+      "c5d233dd16fc",
+      "569c9da1690d",
+      "0b0b570d84e6",
+      "7fb2d72e45e7",
+      "945e068319d1",
+      "4272ccc3b322",
+      "ea6494e61e62",
+      "bd587f5e6dbd",
+      "ed3912fc07c0",
+      "b0f7b1497445",
+      "0943a6008ef3",
+      "f6684643e2bc"
+    ],
+    "name": "Charges on a stock trade beyond the ₹20 brokerage",
+    "summary": "Users expect transaction costs to align with advertised rates, but they often find the final deducted amounts higher or less transparent than anticipated. This discrepancy between expected and actual net proceeds leads to confusion regarding the composition of various fees and taxes.",
+    "what_users_expect": "Advertised or lower transaction fees",
+    "what_surprises_them": "Higher than anticipated final deductions",
+    "model_name": "Clarity and calculation of transaction charges"
+  },
+  "quotes": [
+    {
+      "theme": "App Performance & Technical Stability",
+      "review_id": "2177e937778c",
+      "rating": 1,
+      "date": "2026-09-21",
+      "text": "Groww is constantly lagging, hanging, and taking too long to load. Charts and chart properties often don’t open properly, and F&O trading/options are also not working smoothly. Because of these issues, I have suffered significant financial losses. This is a completely unacceptable and frustrating experience from such a nonsense app. Please fix these issues urgently."
+    },
+    {
+      "theme": "Customer Support & Service Quality",
+      "review_id": "ea8d27521e00",
+      "rating": 1,
+      "date": "2026-10-16",
+      "text": "It was 5 star until now. My order got rejected so I tried approaching customer care and the process is horrible. AI in chat, AI on call. After 4 minutes of discussion with AI I could finally reach an executive. After giving him information he put me on never ending hold and then disconnected the call."
+    },
+    {
+      "theme": "Charges, Fees & Financial Transparency",
+      "review_id": "78fa3328e9ce",
+      "rating": 1,
+      "date": "2026-10-12",
+      "text": "Brokarage fees are too high , Dp charge 24 rupees , I have। switched to another platform, when I calculate my monthly brokerage charge i am fully shocked and immediately change my reading platform"
+    }
+  ],
+  "quotes_verified_verbatim": true
+}

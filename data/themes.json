@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "App Performance & Technical Stability",
+    "description": "Issues related to app crashes, lagging, slow loading, login failures, and general technical bugs."
+  },
+  {
+    "id": 2,
+    "name": "Customer Support & Service Quality",
+    "description": "Complaints regarding unresponsive customer care, long wait times, ineffective AI bots, and unresolved account or transaction tickets."
+  },
+  {
+    "id": 3,
+    "name": "Charges, Fees & Financial Transparency",
+    "description": "Concerns about high brokerage, hidden charges, DP fees, and lack of clarity on transaction or account maintenance costs."
+  },
+  {
+    "id": 4,
+    "name": "Trading Features & UI Improvements",
+    "description": "Requests for new features like advanced charts, stop-loss tools, IPO management, and feedback on UI changes like the scalper mode."
+  },
+  {
+    "id": 5,
+    "name": "General Praise & User Experience",
+    "description": "Positive feedback highlighting the app's ease of use, simple interface, and suitability for beginners."
+  }
+]

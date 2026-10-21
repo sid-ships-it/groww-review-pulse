@@ -1,0 +1,91 @@
+{
+  "stock_trade_charges": {
+    "name": "Charges on a stock trade beyond the ₹20 brokerage",
+    "last_checked": "2026-10-20",
+    "facts": [
+      {
+        "id": "brokerage",
+        "text": "Equity brokerage on Groww is ₹20 or 0.1% per executed order, whichever is lower, with a minimum of ₹5. Buying and selling are separate orders, so each one is charged.",
+        "source": "groww_pricing"
+      },
+      {
+        "id": "dp_charge",
+        "text": "Selling delivery shares adds a DP charge per sell transaction: ₹3.5 depository fee (₹3.25 for women account holders) plus ₹16.5 Groww fee, with 18% GST on top, which comes to about ₹23.60. Intraday trades have no DP charge.",
+        "source": "groww_pricing"
+      },
+      {
+        "id": "statutory",
+        "text": "Government and exchange charges are separate from brokerage. Delivery trades pay STT of 0.1% on buy and sell and stamp duty of 0.015% on buy. Intraday trades pay STT of 0.025% on sell and stamp duty of 0.003% on buy. Exchange transaction charges (NSE 0.00297%, BSE 0.00375%) and the SEBI turnover charge (0.0001%) apply on both sides.",
+        "source": "groww_pricing"
+      },
+      {
+        "id": "gst",
+        "text": "GST of 18% is added on brokerage, DP charges, exchange transaction charges, IPFT, SEBI turnover charges, DDPI charges and auto square-off charges.",
+        "source": "groww_pricing"
+      },
+      {
+        "id": "event_fees",
+        "text": "Some charges apply only when a specific event happens: DDPI charges are ₹100 + GST, and the system's auto square-off of an open intraday position costs ₹50 per position + GST.",
+        "source": "groww_pricing"
+      },
+      {
+        "id": "small_orders",
+        "text": "Because the ₹5 minimum brokerage and the DP charge are fixed amounts, they take a larger share of a small trade than of a large one.",
+        "source": "groww_pricing"
+      },
+      {
+        "id": "contract_note",
+        "text": "SEBI advises investors to insist on a contract note for every trade within 24 hours and to note all charges, fees and brokerage that apply to their account. Groww lists every charge on its pricing page.",
+        "source": "sebi_dos"
+      }
+    ],
+    "must_include": [
+      "₹20",
+      "₹5",
+      "₹23.60",
+      "0.1%",
+      "0.015%",
+      "18%",
+      "contract note"
+    ],
+    "fallback_bullets": [
+      "Brokerage is ₹20 or 0.1% per executed order, whichever is lower, with a minimum of ₹5. A buy and a sell are two orders, so each is charged.",
+      "Selling delivery shares adds a DP charge per sell transaction: ₹3.5 depository fee plus ₹16.5 Groww fee, plus 18% GST, about ₹23.60. Intraday trades have no DP charge.",
+      "Government and exchange charges are separate from brokerage. Delivery: STT 0.1% on buy and sell, stamp duty 0.015% on buy. Intraday: STT 0.025% on sell, stamp duty 0.003% on buy.",
+      "Exchange transaction charges (NSE 0.00297%, BSE 0.00375%) and the SEBI turnover charge (0.0001%) apply on both sides. GST of 18% is added on brokerage, DP and exchange charges.",
+      "Some charges apply only on specific events: DDPI charges are ₹100 + GST, and auto square-off of an open intraday position is ₹50 per position + GST.",
+      "SEBI advises investors to insist on a contract note for every trade within 24 hours and to note all charges that apply. Groww lists every charge on its pricing page."
+    ],
+    "explainer_links": [
+      "groww_pricing",
+      "sebi_dos"
+    ]
+  },
+  "sources": {
+    "groww_pricing": {
+      "title": "Groww: Pricing and charges",
+      "url": "https://groww.in/pricing",
+      "publisher": "Groww (official)"
+    },
+    "sebi_dos": {
+      "title": "SEBI investor website: Securities market do's and don'ts",
+      "url": "https://investor.sebi.gov.in/securities-dos_and_donts.html",
+      "publisher": "SEBI (official)"
+    },
+    "cdsl_tariff": {
+      "title": "CDSL: DP tariff structure (Rs 3.50 per debit transaction)",
+      "url": "https://www.cdslindia.com/DP/CurrentDPs.html",
+      "publisher": "CDSL (official)"
+    },
+    "sebi_charter": {
+      "title": "SEBI investor charter (contract notes in complaint documents)",
+      "url": "https://investor.sebi.gov.in/Investor-charter.html",
+      "publisher": "SEBI (official)"
+    },
+    "play_store": {
+      "title": "Groww on Google Play (review source)",
+      "url": "https://play.google.com/store/apps/details?id=com.nextbillion.groww",
+      "publisher": "Google Play (public reviews)"
+    }
+  }
+}
