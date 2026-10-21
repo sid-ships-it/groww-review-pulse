@@ -5,7 +5,7 @@ ready-to-use fee explanation for the support team, then logs both to internal to
 human approves**.
 
 - **Product:** Groww (same product as the earlier milestones)
-- **Live app:** https://<your-app>.streamlit.app
+- **Live app:** https://groww-review-pulse-fazrw59cdyminttbhcdgs8.streamlit.app
 - **Input:** 10,537 public Google Play reviews, 2026-08-10 to 2026-10-18 (10 weeks), in `data/reviews.csv`
 
 ## What fee issue was identified from the reviews
@@ -284,7 +284,7 @@ This is a draft for review. It has not been sent.
 
 | Deliverable | File |
 |---|---|
-| Working prototype | https://<your-app>.streamlit.app (code: `app.py`) |
+| Working prototype | https://groww-review-pulse-fazrw59cdyminttbhcdgs8.streamlit.app (code: `app.py`) |
 | Weekly product pulse | `outputs/weekly_pulse.md` |
 | Notes doc snippet with the appended entry | `outputs/notes_doc_after_append.md` |
 | Email draft | `outputs/email_draft.txt`, `outputs/email_draft.eml` |
